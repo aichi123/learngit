@@ -1,0 +1,5 @@
+public ege{
+	public String getEge(){
+		return "this is bad ege";
+	}
+}
