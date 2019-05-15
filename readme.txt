@@ -7,3 +7,4 @@ turansiwang
 menu view    table bnnis
 big head
 wo tm jiao mahu
+creating a mew branch is quick $ simple
